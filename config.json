@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerpalculate",
+        "uuid": 4053199,
+        "checksum": "rop882"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
